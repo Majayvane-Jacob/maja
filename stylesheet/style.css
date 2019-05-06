@@ -1,0 +1,210 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#Home {
+  background-color: #1d8569;
+}
+.nav-top {
+  display: flex;
+  justify-content: space-between;
+}
+.info-container i {
+  margin: 7px;
+}
+.info2-container {
+  margin: 7px;
+}
+.info2-container input, button {
+  margin-right: 35px;
+  font-size:15px;
+  background: unset;
+  border: unset;
+  color: white;
+}
+::placeholder {
+  color: white;
+}
+.info2-container a {
+    margin-right: 10px;
+}
+.nav2-top {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-container img {
+  width: 70px;
+  height: 70px;
+  margin: 20px;
+}
+.menu {
+  margin: 20px;
+}
+.menu a {
+  margin-right: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+.menu button {
+  width: 125px;
+  height: 35px;
+}
+.nav-bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.content-container {
+  margin-top: 250px;
+  margin-left: 250px;
+}
+.content-container h1 {
+  font-size: 100px;
+  color: white;
+  font-family: 'Francois One', sans-serif;
+}
+.content-container p {
+  color: white;
+  margin-top: 1px;
+}
+.btn {
+  color: white;
+  border: 1px solid white;
+  margin-top: 20px;
+  width: 150px;
+  height: 35px;
+}
+.image-container img {
+  width: 750px;
+  height: 750px;
+}
+#Importance {
+  background-color: #f9f9f9;
+  height: 125px;
+}
+.importance-container {
+  display: flex;
+  margin-left: 80px;
+  justify-content: space-between;
+}
+.calendar-container {
+  margin-left: 80px;
+}
+.discuss-container {
+  margin: 35px;
+}
+.discuss-container p{
+  font-size: 15px;
+  display: inline;
+}
+.cards-container {
+  margin-left: 550px;
+}
+.cards-container div{
+  display: inline-block;
+  margin: 10px;
+  background-color: #454e5f;
+  color: white;
+  width: 70px;
+  text-align: center;
+  margin-top: 35px;
+}
+.cards-container p{
+  font-size: 10px;
+}
+#Index {
+  background-color:#ffffff;
+}
+.paragraph-container {
+  text-align: center;
+  margin-top: 50px;
+}
+.paragraph-container h5 {
+  margin-top: 10px;
+  font-size: 5px;
+}
+.paragraph-container p{
+  margin-top: 10px;
+}
+.logo2-container i {
+  display: inline-flex;
+  border-radius: 60px;
+  background-color: #2dad8a;
+  width: 60px;
+  height: 60px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.card {
+  display: inline-block;
+  border: 1px solid black;
+  margin: 60px;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin-left:350px;
+}
+.btn2 {
+  border: 1px solid black;
+  margin-top: 20px;
+  width: 150px;
+  height: 35px;
+}
+.card h2{
+  margin-top: 100px;
+}
+#collage {
+  background-image: url("https://www.nidcr.nih.gov/sites/default/files/styles/large/public/FaceBase.jpg?itok=QWRfFLus");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+}
+.collage-container {
+  align-items: center;
+  height: 800px;
+  text-align: center;
+
+}
+
+.collage-container h1 {
+  color: #616b77;
+  font-size: 50px;
+}
+.collage-container p {
+  color: #616b77;
+}
+.paragraph2 h1 {
+  font-size: 50px;
+  color: #3c4349;
+}
+.paragraph2 {
+  text-align: center;
+}
+.paragraph2 h5 {
+  font-size: 12px;
+    margin-top: 10px;
+}
+.paragraph2 p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.videos {
+align-items: center;
+}
+.w3-card-4 h5 {
+  margin-top:
+}
+.w3-card-4 {
+  border: 1 solid black;
+  margin: 50px;
+  display: inline-block;
+  margin-left: 350px;
+}
+.w3-card-4 img {
+  width: 360px;
+  height: 360px;
+}
+#App {
+  background-image: url();
+}
